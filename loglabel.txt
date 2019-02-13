@@ -1,0 +1,1260 @@
+/media/shinong/study/30_easy_test/6/2142842.jpg
+<6>, [score]: <0.999931812286377>.
+/media/shinong/study/30_easy_test/6/4604377.jpg
+<6>, [score]: <0.9997962117195129>.
+/media/shinong/study/30_easy_test/6/1710986.jpg
+<6>, [score]: <0.9805244207382202>.
+/media/shinong/study/30_easy_test/6/774801.jpg
+<6>, [score]: <0.9945270419120789>.
+/media/shinong/study/30_easy_test/6/533600.jpg
+<6>, [score]: <0.9139730930328369>.
+/media/shinong/study/30_easy_test/6/1682930.jpg
+<6>, [score]: <0.967983603477478>.
+/media/shinong/study/30_easy_test/6/2737765.jpg
+ 6>, [score]: <0.9929032921791077>.
+/media/shinong/study/30_easy_test/6/3785431.jpg
+ 29>, [score]: <0.33878961205482483>.
+/media/shinong/study/30_easy_test/6/2307334.jpg
+<11>, [score]: <0.4552009701728821>.
+/media/shinong/study/30_easy_test/6/1554476.jpg
+<6>, [score]: <0.9911092519760132>.
+/media/shinong/study/30_easy_test/6/3785430.jpg
+<11>, [score]: <0.5951098203659058>.
+/media/shinong/study/30_easy_test/6/4677057.jpg
+<6>, [score]: <0.8698798418045044>.
+/media/shinong/study/30_easy_test/6/3799943.jpg
+<6>, [score]: <0.8557456135749817>.
+/media/shinong/study/30_easy_test/6/2729508.jpg
+<6>, [score]: <0.9997891783714294>.
+/media/shinong/study/30_easy_test/6/1082115.jpg
+<6>, [score]: <0.9995500445365906>.
+/media/shinong/study/30_easy_test/6/2001049.jpg
+<6>, [score]: <0.8251391649246216>.
+/media/shinong/study/30_easy_test/6/2755225.jpg
+<6>, [score]: <0.9981491565704346>.
+/media/shinong/study/30_easy_test/6/1554457.jpg
+<6>, [score]: <0.9949609041213989>.
+/media/shinong/study/30_easy_test/6/2095159.jpg
+<6>, [score]: <0.9977419376373291>.
+/media/shinong/study/30_easy_test/6/3514405.jpg
+<7>, [score]: <0.5497329235076904>.
+16
+class:6
+/media/shinong/study/30_easy_test/4/707889.jpg
+<25>, [score]: <0.7960284948348999>.
+/media/shinong/study/30_easy_test/4/3969881.jpg
+<4>, [score]: <0.6515398621559143>.
+/media/shinong/study/30_easy_test/4/1584493.jpg
+<4>, [score]: <0.9977502226829529>.
+/media/shinong/study/30_easy_test/4/2926441.jpg
+<4>, [score]: <0.49662888050079346>.
+/media/shinong/study/30_easy_test/4/4601342.jpg
+<15>, [score]: <0.3273472189903259>.
+/media/shinong/study/30_easy_test/4/1584479.jpg
+<12>, [score]: <0.4148882329463959>.
+/media/shinong/study/30_easy_test/4/2093150.jpg
+<29>, [score]: <0.5750598311424255>.
+/media/shinong/study/30_easy_test/4/1662900.jpg
+<4>, [score]: <0.9835613369941711>.
+/media/shinong/study/30_easy_test/4/2926428.jpg
+<4>, [score]: <0.902901828289032>.
+/media/shinong/study/30_easy_test/4/3887223.jpg
+<4>, [score]: <0.9345620274543762>.
+/media/shinong/study/30_easy_test/4/2384892.jpg
+<4>, [score]: <0.4195827841758728>.
+/media/shinong/study/30_easy_test/4/1988181.jpg
+<4>, [score]: <0.861325204372406>.
+/media/shinong/study/30_easy_test/4/1097479.jpg
+<25>, [score]: <0.5133748650550842>.
+/media/shinong/study/30_easy_test/4/586608.jpg
+<25>, [score]: <0.23621268570423126>.
+/media/shinong/study/30_easy_test/4/645737.jpg
+<4>, [score]: <0.5821959972381592>.
+/media/shinong/study/30_easy_test/4/4601349.jpg
+<2>, [score]: <0.5427286624908447>.
+/media/shinong/study/30_easy_test/4/1040443.jpg
+<4>, [score]: <0.7416216135025024>.
+/media/shinong/study/30_easy_test/4/1044181.jpg
+<4>, [score]: <0.4674655795097351>.
+/media/shinong/study/30_easy_test/4/1642993.jpg
+<7>, [score]: <0.6693499088287354>.
+/media/shinong/study/30_easy_test/4/1761812.jpg
+<25>, [score]: <0.6525999307632446>.
+11
+class:4
+/media/shinong/study/30_easy_test/10/1768907.jpg
+<10>, [score]: <0.9918184280395508>.
+/media/shinong/study/30_easy_test/10/1942184.jpg
+<10>, [score]: <0.9622815847396851>.
+/media/shinong/study/30_easy_test/10/2179684.jpg
+<10>, [score]: <0.9225233197212219>.
+/media/shinong/study/30_easy_test/10/1539497.jpg
+<10>, [score]: <0.9996637105941772>.
+/media/shinong/study/30_easy_test/10/412362.jpg
+<10>, [score]: <0.9910902976989746>.
+/media/shinong/study/30_easy_test/10/1263244.jpg
+<10>, [score]: <0.8060866594314575>.
+/media/shinong/study/30_easy_test/10/1876570.jpg
+<16>, [score]: <0.2832479476928711>.
+/media/shinong/study/30_easy_test/10/1539498.jpg
+<10>, [score]: <0.9996912479400635>.
+/media/shinong/study/30_easy_test/10/1540214.jpg
+<10>, [score]: <0.9996637105941772>.
+/media/shinong/study/30_easy_test/10/1768908.jpg
+<10>, [score]: <0.5050676465034485>.
+/media/shinong/study/30_easy_test/10/808822.jpg
+<10>, [score]: <0.9984820485115051>.
+/media/shinong/study/30_easy_test/10/4683709.jpg
+<10>, [score]: <0.9989789724349976>.
+/media/shinong/study/30_easy_test/10/1044887.jpg
+<10>, [score]: <0.9961435794830322>.
+/media/shinong/study/30_easy_test/10/1044902.jpg
+<10>, [score]: <0.9979427456855774>.
+/media/shinong/study/30_easy_test/10/1539461.jpg
+<10>, [score]: <0.9955234527587891>.
+/media/shinong/study/30_easy_test/10/1609207.jpg
+<10>, [score]: <0.46134790778160095>.
+/media/shinong/study/30_easy_test/10/3827147.jpg
+<11>, [score]: <0.9279518723487854>.
+/media/shinong/study/30_easy_test/10/2324996.jpg
+<10>, [score]: <0.99480801820755>.
+/media/shinong/study/30_easy_test/10/815875.jpg
+<25>, [score]: <0.4039750397205353>.
+/media/shinong/study/30_easy_test/10/2847472.jpg
+<10>, [score]: <0.4898754060268402>.
+17
+class:10
+/media/shinong/study/30_easy_test/3/2632280.jpg
+ 3, [score]: <0.8586558103561401>.
+/media/shinong/study/30_easy_test/3/2403761.jpg
+ 3, [score]: <0.9998345375061035>.
+/media/shinong/study/30_easy_test/3/296878.jpg
+ 3, [score]: <0.9365326166152954>.
+/media/shinong/study/30_easy_test/3/668877.jpg
+ 3, [score]: <0.558297336101532>.
+/media/shinong/study/30_easy_test/3/2920514.jpg
+ 3, [score]: <0.3869211971759796>.
+/media/shinong/study/30_easy_test/3/1996369.jpg
+ 28, [score]: <0.611133337020874>.
+/media/shinong/study/30_easy_test/3/1865781.jpg
+ 28, [score]: <0.2737590968608856>.
+/media/shinong/study/30_easy_test/3/2307767.jpg
+ 3, [score]: <0.997744083404541>.
+/media/shinong/study/30_easy_test/3/1886266.jpg
+ 23, [score]: <0.6260442137718201>.
+/media/shinong/study/30_easy_test/3/273365.jpg
+ 3, [score]: <0.9990507960319519>.
+/media/shinong/study/30_easy_test/3/512163.jpg
+ 2, [score]: <0.5066699981689453>.
+/media/shinong/study/30_easy_test/3/2103809.jpg
+ 15, [score]: <0.24843771755695343>.
+/media/shinong/study/30_easy_test/3/587855.jpg
+ 3, [score]: <0.5345908999443054>.
+/media/shinong/study/30_easy_test/3/2603942.jpg
+ 3, [score]: <0.9994785189628601>.
+/media/shinong/study/30_easy_test/3/2046460.jpg
+ 12, [score]: <0.4861546456813812>.
+/media/shinong/study/30_easy_test/3/2046461.jpg
+ 28, [score]: <0.49959102272987366>.
+/media/shinong/study/30_easy_test/3/668905.jpg
+ 3, [score]: <0.9990291595458984>.
+/media/shinong/study/30_easy_test/3/296878.jpg
+ 3, [score]: <0.9365326166152954>.
+/media/shinong/study/30_easy_test/3/2307767.jpg
+ 3, [score]: <0.997744083404541>.
+/media/shinong/study/30_easy_test/3/1109072.jpg
+ 3, [score]: <0.9999991655349731>.
+13
+class:3
+/media/shinong/study/30_easy_test/30/3935679.jpg
+ 30, [score]: <0.9986056685447693>.
+/media/shinong/study/30_easy_test/30/1853450.jpg
+ 30, [score]: <0.9999299049377441>.
+/media/shinong/study/30_easy_test/30/2079262.jpg
+ 17, [score]: <0.7649582624435425>.
+/media/shinong/study/30_easy_test/30/2648614.jpg
+ 20, [score]: <0.25088661909103394>.
+/media/shinong/study/30_easy_test/30/2121134.jpg
+ 30, [score]: <0.9909428954124451>.
+/media/shinong/study/30_easy_test/30/3818934.jpg
+ 30, [score]: <0.8495202660560608>.
+/media/shinong/study/30_easy_test/30/412170.jpg
+ 30, [score]: <0.9891830682754517>.
+/media/shinong/study/30_easy_test/30/2891055.jpg
+ 30, [score]: <0.9917347431182861>.
+/media/shinong/study/30_easy_test/30/1342769.jpg
+ 30, [score]: <0.9521062970161438>.
+/media/shinong/study/30_easy_test/30/1941323.jpg
+ 30, [score]: <0.9997630715370178>.
+/media/shinong/study/30_easy_test/30/2920671.jpg
+ 30, [score]: <0.9982851147651672>.
+/media/shinong/study/30_easy_test/30/3831758.jpg
+ 30, [score]: <0.9982641339302063>.
+/media/shinong/study/30_easy_test/30/974341.jpg
+ 12, [score]: <0.8567104339599609>.
+/media/shinong/study/30_easy_test/30/2423291.jpg
+ 30, [score]: <0.9992923736572266>.
+/media/shinong/study/30_easy_test/30/2303007.jpg
+ 30, [score]: <0.9955514073371887>.
+/media/shinong/study/30_easy_test/30/621278.jpg
+ 30, [score]: <0.9979948997497559>.
+/media/shinong/study/30_easy_test/30/2648616.jpg
+ 15, [score]: <0.4125344455242157>.
+/media/shinong/study/30_easy_test/30/4671786.jpg
+ 30, [score]: <0.8262012600898743>.
+/media/shinong/study/30_easy_test/30/412173.jpg
+ 30, [score]: <0.9874250292778015>.
+/media/shinong/study/30_easy_test/30/313076.jpg
+ 7, [score]: <0.41444793343544006>.
+15
+class:30
+/media/shinong/study/30_easy_test/9/587125.jpg
+ 9, [score]: <0.9832324385643005>.
+/media/shinong/study/30_easy_test/9/542267.jpg
+ 9, [score]: <0.9634435772895813>.
+/media/shinong/study/30_easy_test/9/145656.jpg
+ 9, [score]: <0.8499362468719482>.
+/media/shinong/study/30_easy_test/9/3826841.jpg
+ 9, [score]: <0.9995242357254028>.
+/media/shinong/study/30_easy_test/9/3912058.jpg
+ 9, [score]: <0.965861976146698>.
+/media/shinong/study/30_easy_test/9/3541597.jpg
+ 11, [score]: <0.9276994466781616>.
+/media/shinong/study/30_easy_test/9/519768.jpg
+ 17, [score]: <0.9590978026390076>.
+/media/shinong/study/30_easy_test/9/1245910.jpg
+ 22, [score]: <0.3550489544868469>.
+/media/shinong/study/30_easy_test/9/2672170.jpg
+ 9, [score]: <0.9977578520774841>.
+/media/shinong/study/30_easy_test/9/2278466.jpg
+ 9, [score]: <0.99978107213974>.
+/media/shinong/study/30_easy_test/9/977664.jpg
+ 11, [score]: <0.7704272866249084>.
+/media/shinong/study/30_easy_test/9/1339794.jpg
+ 3, [score]: <0.2577578127384186>.
+/media/shinong/study/30_easy_test/9/1638307.jpg
+ 25, [score]: <0.6758382320404053>.
+/media/shinong/study/30_easy_test/9/2385774.jpg
+ 12, [score]: <0.6887685060501099>.
+/media/shinong/study/30_easy_test/9/2821588.jpg
+ 9, [score]: <0.397616982460022>.
+/media/shinong/study/30_easy_test/9/2673843.jpg
+ 9, [score]: <0.9991183876991272>.
+/media/shinong/study/30_easy_test/9/2344575.jpg
+ 9, [score]: <0.3900418281555176>.
+/media/shinong/study/30_easy_test/9/2815202.jpg
+ 9, [score]: <0.9980399012565613>.
+/media/shinong/study/30_easy_test/9/636619.jpg
+ 9, [score]: <0.9866589307785034>.
+/media/shinong/study/30_easy_test/9/1351922.jpg
+ 9, [score]: <0.9997722506523132>.
+13
+class:9
+/media/shinong/study/30_easy_test/12/1648096.jpg
+ 12, [score]: <0.999763548374176>.
+/media/shinong/study/30_easy_test/12/1388126.jpg
+ 12, [score]: <0.9997357726097107>.
+/media/shinong/study/30_easy_test/12/3565122.jpg
+ 12, [score]: <0.38394737243652344>.
+/media/shinong/study/30_easy_test/12/2710640.jpg
+ 12, [score]: <0.9999511241912842>.
+/media/shinong/study/30_easy_test/12/460592.jpg
+ 12, [score]: <0.9114102125167847>.
+/media/shinong/study/30_easy_test/12/2226276.jpg
+ 12, [score]: <0.9994170665740967>.
+/media/shinong/study/30_easy_test/12/2404681.jpg
+ 25, [score]: <0.44005268812179565>.
+/media/shinong/study/30_easy_test/12/114971.jpg
+ 12, [score]: <0.6581097841262817>.
+/media/shinong/study/30_easy_test/12/3855736.jpg
+ 12, [score]: <0.9976849555969238>.
+/media/shinong/study/30_easy_test/12/4645587.jpg
+ 12, [score]: <0.8932837843894958>.
+/media/shinong/study/30_easy_test/12/1939953.jpg
+ 12, [score]: <0.9967645406723022>.
+/media/shinong/study/30_easy_test/12/2890507.jpg
+ 12, [score]: <0.9988860487937927>.
+/media/shinong/study/30_easy_test/12/2972255.jpg
+ 12, [score]: <0.9898277521133423>.
+/media/shinong/study/30_easy_test/12/1794599.jpg
+ 12, [score]: <0.6064820885658264>.
+/media/shinong/study/30_easy_test/12/1990178.jpg
+ 12, [score]: <0.999447762966156>.
+/media/shinong/study/30_easy_test/12/3979483.jpg
+ 12, [score]: <0.9986472725868225>.
+/media/shinong/study/30_easy_test/12/2710636.jpg
+ 12, [score]: <0.8735226392745972>.
+/media/shinong/study/30_easy_test/12/1388125.jpg
+ 12, [score]: <0.9781122803688049>.
+/media/shinong/study/30_easy_test/12/3743055.jpg
+ 29, [score]: <0.4859374463558197>.
+/media/shinong/study/30_easy_test/12/1201446.jpg
+ 12, [score]: <0.8731175065040588>.
+18
+class:12
+/media/shinong/study/30_easy_test/1/467564.jpg
+ 22, [score]: <0.3304515779018402>.
+/media/shinong/study/30_easy_test/1/491869.jpg
+ 19, [score]: <0.3850436210632324>.
+/media/shinong/study/30_easy_test/1/115803.jpg
+ 1, [score]: <0.9826940894126892>.
+/media/shinong/study/30_easy_test/1/1713590.jpg
+ 1, [score]: <0.9220815896987915>.
+/media/shinong/study/30_easy_test/1/505826.jpg
+ 1, [score]: <0.9996339082717896>.
+/media/shinong/study/30_easy_test/1/980127.jpg
+ 1, [score]: <0.9924007654190063>.
+/media/shinong/study/30_easy_test/1/115756.jpg
+ 14, [score]: <0.28149813413619995>.
+/media/shinong/study/30_easy_test/1/632490.jpg
+ 8, [score]: <0.6835773587226868>.
+/media/shinong/study/30_easy_test/1/2726793.jpg
+ 25, [score]: <0.2333793342113495>.
+/media/shinong/study/30_easy_test/1/2435359.jpg
+ 8, [score]: <0.519669771194458>.
+/media/shinong/study/30_easy_test/1/2674828.jpg
+ 11, [score]: <0.5369446277618408>.
+/media/shinong/study/30_easy_test/1/1974005.jpg
+ 7, [score]: <0.5689352750778198>.
+/media/shinong/study/30_easy_test/1/1084377.jpg
+ 1, [score]: <0.9988369345664978>.
+/media/shinong/study/30_easy_test/1/2718210.jpg
+ 4, [score]: <0.7407150268554688>.
+/media/shinong/study/30_easy_test/1/1339724.jpg
+ 16, [score]: <0.5606435537338257>.
+/media/shinong/study/30_easy_test/1/2369889.jpg
+ 24, [score]: <0.8310604095458984>.
+/media/shinong/study/30_easy_test/1/4715847.jpg
+ 1, [score]: <0.5422232747077942>.
+/media/shinong/study/30_easy_test/1/2118239.jpg
+ 13, [score]: <0.4027242660522461>.
+/media/shinong/study/30_easy_test/1/391979.jpg
+ 17, [score]: <0.2308814972639084>.
+/media/shinong/study/30_easy_test/1/123617.jpg
+ 1, [score]: <0.9536485075950623>.
+7
+class:1
+/media/shinong/study/30_easy_test/11/502745.jpg
+ 11, [score]: <0.9999206066131592>.
+/media/shinong/study/30_easy_test/11/2150116.jpg
+ 14, [score]: <0.9331726431846619>.
+/media/shinong/study/30_easy_test/11/4566850.jpg
+ 11, [score]: <0.8891494274139404>.
+/media/shinong/study/30_easy_test/11/3500743.jpg
+ 12, [score]: <0.27141687273979187>.
+/media/shinong/study/30_easy_test/11/2081489.jpg
+ 11, [score]: <0.9898077845573425>.
+/media/shinong/study/30_easy_test/11/897817.jpg
+ 11, [score]: <0.9970231652259827>.
+/media/shinong/study/30_easy_test/11/2859317.jpg
+ 11, [score]: <0.9788534045219421>.
+/media/shinong/study/30_easy_test/11/1316339.jpg
+ 11, [score]: <0.9886165261268616>.
+/media/shinong/study/30_easy_test/11/183803.jpg
+ 11, [score]: <0.9824410080909729>.
+/media/shinong/study/30_easy_test/11/2096322.jpg
+ 11, [score]: <0.995593249797821>.
+/media/shinong/study/30_easy_test/11/2302335.jpg
+ 11, [score]: <0.4063800275325775>.
+/media/shinong/study/30_easy_test/11/1638812.jpg
+ 11, [score]: <0.9994363188743591>.
+/media/shinong/study/30_easy_test/11/265662.jpg
+ 11, [score]: <0.9989749193191528>.
+/media/shinong/study/30_easy_test/11/1533069.jpg
+ 11, [score]: <0.9903891682624817>.
+/media/shinong/study/30_easy_test/11/2082225.jpg
+ 11, [score]: <0.9551646113395691>.
+/media/shinong/study/30_easy_test/11/1104758.jpg
+ 11, [score]: <0.997479259967804>.
+/media/shinong/study/30_easy_test/11/1654331.jpg
+ 11, [score]: <0.9991303086280823>.
+/media/shinong/study/30_easy_test/11/1327758.jpg
+ 11, [score]: <0.9433857798576355>.
+/media/shinong/study/30_easy_test/11/496028.jpg
+ 11, [score]: <0.9945554733276367>.
+/media/shinong/study/30_easy_test/11/897811.jpg
+ 11, [score]: <0.9969244599342346>.
+18
+class:11
+/media/shinong/study/30_easy_test/27/901737.jpg
+ 27, [score]: <0.9510618448257446>.
+/media/shinong/study/30_easy_test/27/1383387.jpg
+ 6, [score]: <0.45864662528038025>.
+/media/shinong/study/30_easy_test/27/1684263.jpg
+ 27, [score]: <0.9999064207077026>.
+/media/shinong/study/30_easy_test/27/1654001.jpg
+ 27, [score]: <0.9748522043228149>.
+/media/shinong/study/30_easy_test/27/818622.jpg
+ 27, [score]: <0.5113272666931152>.
+/media/shinong/study/30_easy_test/27/4724567.jpg
+ 23, [score]: <0.7555519342422485>.
+/media/shinong/study/30_easy_test/27/2776982.jpg
+ 27, [score]: <0.9990813732147217>.
+/media/shinong/study/30_easy_test/27/2684042.jpg
+ 27, [score]: <0.9997593760490417>.
+/media/shinong/study/30_easy_test/27/173128.jpg
+ 27, [score]: <0.6676505208015442>.
+/media/shinong/study/30_easy_test/27/2870405.jpg
+ 17, [score]: <0.8074938654899597>.
+/media/shinong/study/30_easy_test/27/2856049.jpg
+ 27, [score]: <0.9627552628517151>.
+/media/shinong/study/30_easy_test/27/460083.jpg
+ 27, [score]: <0.6844919323921204>.
+/media/shinong/study/30_easy_test/27/1433342.jpg
+ 27, [score]: <0.370126873254776>.
+/media/shinong/study/30_easy_test/27/349118.jpg
+ 6, [score]: <0.5050469636917114>.
+/media/shinong/study/30_easy_test/27/4554480.jpg
+ 27, [score]: <0.8956895470619202>.
+/media/shinong/study/30_easy_test/27/2110299.jpg
+ 27, [score]: <0.9729766845703125>.
+/media/shinong/study/30_easy_test/27/518864.jpg
+ 27, [score]: <0.999517560005188>.
+/media/shinong/study/30_easy_test/27/1854775.jpg
+ 27, [score]: <0.9581949710845947>.
+/media/shinong/study/30_easy_test/27/1267014.jpg
+ 26, [score]: <0.4606033265590668>.
+/media/shinong/study/30_easy_test/27/1999900.jpg
+ 3, [score]: <0.9509757161140442>.
+14
+class:27
+/media/shinong/study/30_easy_test/19/2980095.jpg
+ 12, [score]: <0.7524362802505493>.
+/media/shinong/study/30_easy_test/19/1547241.jpg
+ 3, [score]: <0.5539723038673401>.
+/media/shinong/study/30_easy_test/19/1546894.jpg
+ 19, [score]: <0.9997977614402771>.
+/media/shinong/study/30_easy_test/19/1547238.jpg
+ 19, [score]: <0.872913658618927>.
+/media/shinong/study/30_easy_test/19/1547304.jpg
+ 19, [score]: <0.9989863038063049>.
+/media/shinong/study/30_easy_test/19/163180.jpg
+ 19, [score]: <0.9948968291282654>.
+/media/shinong/study/30_easy_test/19/1724743.jpg
+ 19, [score]: <0.8769745230674744>.
+/media/shinong/study/30_easy_test/19/4641152.jpg
+ 19, [score]: <0.9122415781021118>.
+/media/shinong/study/30_easy_test/19/1555187.jpg
+ 19, [score]: <0.9994102716445923>.
+/media/shinong/study/30_easy_test/19/1546896.jpg
+ 19, [score]: <0.9989175796508789>.
+/media/shinong/study/30_easy_test/19/1816189.jpg
+ 29, [score]: <0.8170967102050781>.
+/media/shinong/study/30_easy_test/19/1265742.jpg
+ 26, [score]: <0.3415781259536743>.
+/media/shinong/study/30_easy_test/19/1546885.jpg
+ 19, [score]: <0.9974352717399597>.
+/media/shinong/study/30_easy_test/19/293403.jpg
+ 19, [score]: <0.9925387501716614>.
+/media/shinong/study/30_easy_test/19/974685.jpg
+ 19, [score]: <0.997995138168335>.
+/media/shinong/study/30_easy_test/19/2092912.jpg
+ 19, [score]: <0.9999815225601196>.
+/media/shinong/study/30_easy_test/19/1560216.jpg
+ 19, [score]: <0.9983813762664795>.
+/media/shinong/study/30_easy_test/19/1555202.jpg
+ 19, [score]: <0.9922758936882019>.
+/media/shinong/study/30_easy_test/19/1480881.jpg
+ 19, [score]: <0.9977001547813416>.
+/media/shinong/study/30_easy_test/19/1646849.jpg
+ 26, [score]: <0.191512331366539>.
+15
+class:19
+/media/shinong/study/30_easy_test/28/983769.jpg
+ 12, [score]: <0.7225000858306885>.
+/media/shinong/study/30_easy_test/28/1808423.jpg
+ 7, [score]: <0.4739508628845215>.
+/media/shinong/study/30_easy_test/28/1331775.jpg
+ 28, [score]: <0.9951724410057068>.
+/media/shinong/study/30_easy_test/28/235087.jpg
+ 19, [score]: <0.6730674505233765>.
+/media/shinong/study/30_easy_test/28/1032199.jpg
+ 28, [score]: <0.5026952028274536>.
+/media/shinong/study/30_easy_test/28/565503.jpg
+ 28, [score]: <0.8939064741134644>.
+/media/shinong/study/30_easy_test/28/1659505.jpg
+ 28, [score]: <0.8266587257385254>.
+/media/shinong/study/30_easy_test/28/1672493.jpg
+ 28, [score]: <0.889883816242218>.
+/media/shinong/study/30_easy_test/28/1619011.jpg
+ 28, [score]: <0.7719686627388>.
+/media/shinong/study/30_easy_test/28/1618993.jpg
+ 28, [score]: <0.9994801878929138>.
+/media/shinong/study/30_easy_test/28/728014.jpg
+ 28, [score]: <0.9989204406738281>.
+/media/shinong/study/30_easy_test/28/983779.jpg
+ 28, [score]: <0.9999619722366333>.
+/media/shinong/study/30_easy_test/28/2088497.jpg
+ 28, [score]: <0.998488187789917>.
+/media/shinong/study/30_easy_test/28/1877150.jpg
+ 19, [score]: <0.29187390208244324>.
+/media/shinong/study/30_easy_test/28/1332319.jpg
+ 28, [score]: <0.9990801811218262>.
+/media/shinong/study/30_easy_test/28/2149276.jpg
+ 12, [score]: <0.993889570236206>.
+/media/shinong/study/30_easy_test/28/1039755.jpg
+ 28, [score]: <0.9969461560249329>.
+/media/shinong/study/30_easy_test/28/1038579.jpg
+ 28, [score]: <0.9483030438423157>.
+/media/shinong/study/30_easy_test/28/2372426.jpg
+ 28, [score]: <0.9317975640296936>.
+/media/shinong/study/30_easy_test/28/1020271.jpg
+ 28, [score]: <0.9988914132118225>.
+15
+class:28
+/media/shinong/study/30_easy_test/18/1444768.jpg
+ 18, [score]: <0.9628008008003235>.
+/media/shinong/study/30_easy_test/18/626507.jpg
+ 18, [score]: <0.9489872455596924>.
+/media/shinong/study/30_easy_test/18/3945500.jpg
+ 18, [score]: <0.9905408024787903>.
+/media/shinong/study/30_easy_test/18/2663960.jpg
+ 18, [score]: <0.35529327392578125>.
+/media/shinong/study/30_easy_test/18/2495221.jpg
+ 18, [score]: <0.9977147579193115>.
+/media/shinong/study/30_easy_test/18/3923581.jpg
+ 18, [score]: <0.9968987703323364>.
+/media/shinong/study/30_easy_test/18/2984529.jpg
+ 18, [score]: <0.9087309241294861>.
+/media/shinong/study/30_easy_test/18/3850214.jpg
+ 18, [score]: <0.7905601859092712>.
+/media/shinong/study/30_easy_test/18/3923438.jpg
+ 18, [score]: <0.41358014941215515>.
+/media/shinong/study/30_easy_test/18/2381185.jpg
+ 18, [score]: <0.5093740224838257>.
+/media/shinong/study/30_easy_test/18/1526121.jpg
+ 18, [score]: <0.9377239942550659>.
+/media/shinong/study/30_easy_test/18/3735304.jpg
+ 18, [score]: <0.45117002725601196>.
+/media/shinong/study/30_easy_test/18/3873236.jpg
+ 18, [score]: <0.9931207299232483>.
+/media/shinong/study/30_easy_test/18/1645742.jpg
+ 18, [score]: <0.9995818734169006>.
+/media/shinong/study/30_easy_test/18/2977985.jpg
+ 18, [score]: <0.9945300221443176>.
+/media/shinong/study/30_easy_test/18/4564759.jpg
+ 18, [score]: <0.8598470687866211>.
+/media/shinong/study/30_easy_test/18/1043822.jpg
+ 18, [score]: <0.632138192653656>.
+/media/shinong/study/30_easy_test/18/4554640.jpg
+ 18, [score]: <0.9955441355705261>.
+/media/shinong/study/30_easy_test/18/1542264.jpg
+ 18, [score]: <0.9991264939308167>.
+/media/shinong/study/30_easy_test/18/474785.jpg
+ 18, [score]: <0.9807726144790649>.
+20
+class:18
+/media/shinong/study/30_easy_test/16/1572395.jpg
+ 16, [score]: <0.9868068099021912>.
+/media/shinong/study/30_easy_test/16/1618168.jpg
+ 16, [score]: <0.9993147850036621>.
+/media/shinong/study/30_easy_test/16/1588606.jpg
+ 16, [score]: <0.4196854829788208>.
+/media/shinong/study/30_easy_test/16/1495736.jpg
+ 16, [score]: <0.9885257482528687>.
+/media/shinong/study/30_easy_test/16/1014449.jpg
+ 16, [score]: <0.9986019730567932>.
+/media/shinong/study/30_easy_test/16/3770905.jpg
+ 15, [score]: <0.6089745163917542>.
+/media/shinong/study/30_easy_test/16/1612327.jpg
+ 16, [score]: <0.8509069085121155>.
+/media/shinong/study/30_easy_test/16/2801620.jpg
+ 16, [score]: <0.5313866138458252>.
+/media/shinong/study/30_easy_test/16/1004811.jpg
+ 16, [score]: <0.988902747631073>.
+/media/shinong/study/30_easy_test/16/3792238.jpg
+ 14, [score]: <0.2618683874607086>.
+/media/shinong/study/30_easy_test/16/1621168.jpg
+ 16, [score]: <0.9995402097702026>.
+/media/shinong/study/30_easy_test/16/1404562.jpg
+ 16, [score]: <0.999901294708252>.
+/media/shinong/study/30_easy_test/16/1612333.jpg
+ 16, [score]: <0.7641170024871826>.
+/media/shinong/study/30_easy_test/16/346360.jpg
+ 16, [score]: <0.9025353789329529>.
+/media/shinong/study/30_easy_test/16/1588098.jpg
+ 16, [score]: <0.8408241868019104>.
+/media/shinong/study/30_easy_test/16/1404564.jpg
+ 16, [score]: <0.9991117119789124>.
+/media/shinong/study/30_easy_test/16/346368.jpg
+ 16, [score]: <0.94166499376297>.
+/media/shinong/study/30_easy_test/16/1620995.jpg
+ 16, [score]: <0.5611865520477295>.
+/media/shinong/study/30_easy_test/16/1404274.jpg
+ 16, [score]: <0.9871548414230347>.
+/media/shinong/study/30_easy_test/16/1404270.jpg
+ 16, [score]: <0.9665975570678711>.
+18
+class:16
+/media/shinong/study/30_easy_test/13/1965012.jpg
+ 13, [score]: <0.9128521084785461>.
+/media/shinong/study/30_easy_test/13/4543085.jpg
+ 24, [score]: <0.7772037386894226>.
+/media/shinong/study/30_easy_test/13/248271.jpg
+ 13, [score]: <0.9039444327354431>.
+/media/shinong/study/30_easy_test/13/2300847.jpg
+ 13, [score]: <0.9924355149269104>.
+/media/shinong/study/30_easy_test/13/2334385.jpg
+ 13, [score]: <0.9863228797912598>.
+/media/shinong/study/30_easy_test/13/467774.jpg
+ 13, [score]: <0.953846275806427>.
+/media/shinong/study/30_easy_test/13/1574838.jpg
+ 13, [score]: <0.9996315240859985>.
+/media/shinong/study/30_easy_test/13/1575543.jpg
+ 13, [score]: <0.9508453607559204>.
+/media/shinong/study/30_easy_test/13/629114.jpg
+ 13, [score]: <0.8142328858375549>.
+/media/shinong/study/30_easy_test/13/4601630.jpg
+ 13, [score]: <0.9996821880340576>.
+/media/shinong/study/30_easy_test/13/3808458.jpg
+ 13, [score]: <0.9943840503692627>.
+/media/shinong/study/30_easy_test/13/2868737.jpg
+ 13, [score]: <0.9797226786613464>.
+/media/shinong/study/30_easy_test/13/1575541.jpg
+ 13, [score]: <0.9885697960853577>.
+/media/shinong/study/30_easy_test/13/1589480.jpg
+ 13, [score]: <0.9934695959091187>.
+/media/shinong/study/30_easy_test/13/2398211.jpg
+ 13, [score]: <0.9991481304168701>.
+/media/shinong/study/30_easy_test/13/473584.jpg
+ 13, [score]: <0.9971199035644531>.
+/media/shinong/study/30_easy_test/13/1620581.jpg
+ 13, [score]: <0.9837369322776794>.
+/media/shinong/study/30_easy_test/13/1029098.jpg
+ 13, [score]: <0.9984466433525085>.
+/media/shinong/study/30_easy_test/13/708710.jpg
+ 13, [score]: <0.42502492666244507>.
+/media/shinong/study/30_easy_test/13/708740.jpg
+ 13, [score]: <0.9985548853874207>.
+19
+class:13
+/media/shinong/study/30_easy_test/23/2696776.jpg
+ 23, [score]: <0.7638834118843079>.
+/media/shinong/study/30_easy_test/23/1398067.jpg
+ 23, [score]: <0.9006444811820984>.
+/media/shinong/study/30_easy_test/23/2400873.jpg
+ 26, [score]: <0.43154335021972656>.
+/media/shinong/study/30_easy_test/23/349179.jpg
+ 23, [score]: <0.7062084078788757>.
+/media/shinong/study/30_easy_test/23/3734110.jpg
+ 26, [score]: <0.6988012790679932>.
+/media/shinong/study/30_easy_test/23/1349944.jpg
+ 12, [score]: <0.2514238655567169>.
+/media/shinong/study/30_easy_test/23/1530151.jpg
+ 23, [score]: <0.9902389049530029>.
+/media/shinong/study/30_easy_test/23/1349981.jpg
+ 3, [score]: <0.7593814134597778>.
+/media/shinong/study/30_easy_test/23/1833492.jpg
+ 11, [score]: <0.6356597542762756>.
+/media/shinong/study/30_easy_test/23/1350095.jpg
+ 23, [score]: <0.901507556438446>.
+/media/shinong/study/30_easy_test/23/2910405.jpg
+ 28, [score]: <0.46097007393836975>.
+/media/shinong/study/30_easy_test/23/1035446.jpg
+ 23, [score]: <0.9946775436401367>.
+/media/shinong/study/30_easy_test/23/1391304.jpg
+ 3, [score]: <0.19893942773342133>.
+/media/shinong/study/30_easy_test/23/243003.jpg
+ 23, [score]: <0.34201881289482117>.
+/media/shinong/study/30_easy_test/23/1456972.jpg
+ 17, [score]: <0.7849815487861633>.
+/media/shinong/study/30_easy_test/23/1750510.jpg
+ 23, [score]: <0.9992159605026245>.
+/media/shinong/study/30_easy_test/23/295101.jpg
+ 23, [score]: <0.5185467600822449>.
+/media/shinong/study/30_easy_test/23/1401904.jpg
+ 23, [score]: <0.9988731741905212>.
+/media/shinong/study/30_easy_test/23/1530148.jpg
+ 23, [score]: <0.7102932929992676>.
+/media/shinong/study/30_easy_test/23/1702420.jpg
+ 23, [score]: <0.6877186298370361>.
+12
+class:23
+/media/shinong/study/30_easy_test/14/2229816.jpg
+ 14, [score]: <0.9148007035255432>.
+/media/shinong/study/30_easy_test/14/1024415.jpg
+ 26, [score]: <0.44222912192344666>.
+/media/shinong/study/30_easy_test/14/4614641.jpg
+ 14, [score]: <0.9929280877113342>.
+/media/shinong/study/30_easy_test/14/2182647.jpg
+ 5, [score]: <0.9607909321784973>.
+/media/shinong/study/30_easy_test/14/2856056.jpg
+ 14, [score]: <0.8371273875236511>.
+/media/shinong/study/30_easy_test/14/1024993.jpg
+ 16, [score]: <0.7192744016647339>.
+/media/shinong/study/30_easy_test/14/1574364.jpg
+ 5, [score]: <0.5080925226211548>.
+/media/shinong/study/30_easy_test/14/2288886.jpg
+ 14, [score]: <0.9937352538108826>.
+/media/shinong/study/30_easy_test/14/2027455.jpg
+ 14, [score]: <0.7939737439155579>.
+/media/shinong/study/30_easy_test/14/1025025.jpg
+ 14, [score]: <0.9909520149230957>.
+/media/shinong/study/30_easy_test/14/1557448.jpg
+ 14, [score]: <0.9883212447166443>.
+/media/shinong/study/30_easy_test/14/2866749.jpg
+ 11, [score]: <0.3836873173713684>.
+/media/shinong/study/30_easy_test/14/1025028.jpg
+ 15, [score]: <0.35157084465026855>.
+/media/shinong/study/30_easy_test/14/141357.jpg
+ 14, [score]: <0.989362895488739>.
+/media/shinong/study/30_easy_test/14/1024024.jpg
+ 14, [score]: <0.7643135786056519>.
+/media/shinong/study/30_easy_test/14/1680285.jpg
+ 14, [score]: <0.999895453453064>.
+/media/shinong/study/30_easy_test/14/143437.jpg
+ 14, [score]: <0.9765396118164062>.
+/media/shinong/study/30_easy_test/14/1424975.jpg
+ 14, [score]: <0.8375363945960999>.
+/media/shinong/study/30_easy_test/14/236218.jpg
+ 14, [score]: <0.9266836047172546>.
+/media/shinong/study/30_easy_test/14/2288891.jpg
+ 14, [score]: <0.9988600015640259>.
+14
+class:14
+/media/shinong/study/30_easy_test/7/1786423.jpg
+ 12, [score]: <0.39452090859413147>.
+/media/shinong/study/30_easy_test/7/493869.jpg
+ 7, [score]: <0.999407172203064>.
+/media/shinong/study/30_easy_test/7/1490300.jpg
+ 15, [score]: <0.917855978012085>.
+/media/shinong/study/30_easy_test/7/633656.jpg
+ 7, [score]: <0.41571044921875>.
+/media/shinong/study/30_easy_test/7/2905427.jpg
+ 11, [score]: <0.46256759762763977>.
+/media/shinong/study/30_easy_test/7/2349022.jpg
+ 7, [score]: <0.5576700568199158>.
+/media/shinong/study/30_easy_test/7/709718.jpg
+ 7, [score]: <0.997358500957489>.
+/media/shinong/study/30_easy_test/7/249364.jpg
+ 7, [score]: <0.9922674298286438>.
+/media/shinong/study/30_easy_test/7/1515318.jpg
+ 3, [score]: <0.7091618180274963>.
+/media/shinong/study/30_easy_test/7/1827854.jpg
+ 2, [score]: <0.8439011573791504>.
+/media/shinong/study/30_easy_test/7/3936376.jpg
+ 25, [score]: <0.2610224187374115>.
+/media/shinong/study/30_easy_test/7/2370537.jpg
+ 4, [score]: <0.3168584108352661>.
+/media/shinong/study/30_easy_test/7/2960339.jpg
+ 7, [score]: <0.6597806811332703>.
+/media/shinong/study/30_easy_test/7/4699717.jpg
+ 7, [score]: <0.9990602135658264>.
+/media/shinong/study/30_easy_test/7/1023146.jpg
+ 3, [score]: <0.20518381893634796>.
+/media/shinong/study/30_easy_test/7/1818530.jpg
+ 6, [score]: <0.9754188656806946>.
+/media/shinong/study/30_easy_test/7/3896766.jpg
+ 28, [score]: <0.4007587730884552>.
+/media/shinong/study/30_easy_test/7/1232022.jpg
+ 7, [score]: <0.2329690307378769>.
+/media/shinong/study/30_easy_test/7/2053226.jpg
+ 7, [score]: <0.9983106851577759>.
+/media/shinong/study/30_easy_test/7/2960369.jpg
+ 11, [score]: <0.23536935448646545>.
+9
+class:7
+/media/shinong/study/30_easy_test/29/1058451.jpg
+ 21, [score]: <0.6129245162010193>.
+/media/shinong/study/30_easy_test/29/627921.jpg
+ 29, [score]: <0.9990800619125366>.
+/media/shinong/study/30_easy_test/29/187109.jpg
+ 11, [score]: <0.9436821937561035>.
+/media/shinong/study/30_easy_test/29/2439950.jpg
+ 14, [score]: <0.12651599943637848>.
+/media/shinong/study/30_easy_test/29/424931.jpg
+ 12, [score]: <0.28151702880859375>.
+/media/shinong/study/30_easy_test/29/1058450.jpg
+ 29, [score]: <0.8948405981063843>.
+/media/shinong/study/30_easy_test/29/2362491.jpg
+ 11, [score]: <0.8225140571594238>.
+/media/shinong/study/30_easy_test/29/163638.jpg
+ 11, [score]: <0.9971900582313538>.
+/media/shinong/study/30_easy_test/29/1806332.jpg
+ 8, [score]: <0.31265386939048767>.
+/media/shinong/study/30_easy_test/29/1028543.jpg
+ 11, [score]: <0.4755416512489319>.
+/media/shinong/study/30_easy_test/29/1380625.jpg
+ 29, [score]: <0.9740424156188965>.
+/media/shinong/study/30_easy_test/29/2787916.jpg
+ 29, [score]: <0.9811819195747375>.
+/media/shinong/study/30_easy_test/29/2912221.jpg
+ 29, [score]: <0.9227245450019836>.
+/media/shinong/study/30_easy_test/29/2946781.jpg
+ 29, [score]: <0.9810349345207214>.
+/media/shinong/study/30_easy_test/29/559831.jpg
+ 19, [score]: <0.48944035172462463>.
+/media/shinong/study/30_easy_test/29/423853.jpg
+ 29, [score]: <0.7476099133491516>.
+/media/shinong/study/30_easy_test/29/3964061.jpg
+ 29, [score]: <0.9599716067314148>.
+/media/shinong/study/30_easy_test/29/2374842.jpg
+ 11, [score]: <0.9973403811454773>.
+/media/shinong/study/30_easy_test/29/2746255.jpg
+ 29, [score]: <0.9636940956115723>.
+/media/shinong/study/30_easy_test/29/568974.jpg
+ 25, [score]: <0.9510277509689331>.
+9
+class:29
+/media/shinong/study/30_easy_test/2/297279.jpg
+ 2, [score]: <0.9325186014175415>.
+/media/shinong/study/30_easy_test/2/4776375.jpg
+ 24, [score]: <0.578873872756958>.
+/media/shinong/study/30_easy_test/2/2356633.jpg
+ 24, [score]: <0.5265063047409058>.
+/media/shinong/study/30_easy_test/2/1455237.jpg
+ 2, [score]: <0.42941156029701233>.
+/media/shinong/study/30_easy_test/2/270485.jpg
+ 2, [score]: <0.6169290542602539>.
+/media/shinong/study/30_easy_test/2/4781554.jpg
+ 2, [score]: <0.4649200737476349>.
+/media/shinong/study/30_easy_test/2/109404.jpg
+ 2, [score]: <0.9923557043075562>.
+/media/shinong/study/30_easy_test/2/486650.jpg
+ 20, [score]: <0.3338364362716675>.
+/media/shinong/study/30_easy_test/2/299854.jpg
+ 2, [score]: <0.9981141090393066>.
+/media/shinong/study/30_easy_test/2/2838740.jpg
+ 2, [score]: <0.9931867122650146>.
+/media/shinong/study/30_easy_test/2/1252329.jpg
+ 2, [score]: <0.9994256496429443>.
+/media/shinong/study/30_easy_test/2/1343289.jpg
+ 2, [score]: <0.9900847673416138>.
+/media/shinong/study/30_easy_test/2/1364753.jpg
+ 2, [score]: <0.3620058298110962>.
+/media/shinong/study/30_easy_test/2/1846982.jpg
+ 2, [score]: <0.9396706223487854>.
+/media/shinong/study/30_easy_test/2/1414295.jpg
+ 2, [score]: <0.9782943725585938>.
+/media/shinong/study/30_easy_test/2/1347726.jpg
+ 2, [score]: <0.9040904641151428>.
+/media/shinong/study/30_easy_test/2/629727.jpg
+ 6, [score]: <0.9691168665885925>.
+/media/shinong/study/30_easy_test/2/3836483.jpg
+ 2, [score]: <0.9742364287376404>.
+/media/shinong/study/30_easy_test/2/1812646.jpg
+ 2, [score]: <0.9974499344825745>.
+/media/shinong/study/30_easy_test/2/1447342.jpg
+ 25, [score]: <0.5046797394752502>.
+15
+class:2
+/media/shinong/study/30_easy_test/8/3533469.jpg
+ 8, [score]: <0.9888651371002197>.
+/media/shinong/study/30_easy_test/8/1684402.jpg
+ 8, [score]: <0.9451369047164917>.
+/media/shinong/study/30_easy_test/8/1672985.jpg
+ 8, [score]: <0.9969049096107483>.
+/media/shinong/study/30_easy_test/8/1849196.jpg
+ 24, [score]: <0.7473109364509583>.
+/media/shinong/study/30_easy_test/8/2703424.jpg
+ 8, [score]: <0.9846197962760925>.
+/media/shinong/study/30_easy_test/8/1275992.jpg
+ 8, [score]: <0.18933798372745514>.
+/media/shinong/study/30_easy_test/8/352239.jpg
+ 4, [score]: <0.5421123504638672>.
+/media/shinong/study/30_easy_test/8/3507545.jpg
+ 20, [score]: <0.5716047286987305>.
+/media/shinong/study/30_easy_test/8/1026966.jpg
+ 8, [score]: <0.9880406260490417>.
+/media/shinong/study/30_easy_test/8/3525805.jpg
+ 8, [score]: <0.9981985688209534>.
+/media/shinong/study/30_easy_test/8/430940.jpg
+ 8, [score]: <0.6272738575935364>.
+/media/shinong/study/30_easy_test/8/1062631.jpg
+ 30, [score]: <0.1947586089372635>.
+/media/shinong/study/30_easy_test/8/964182.jpg
+ 8, [score]: <0.8949134349822998>.
+/media/shinong/study/30_easy_test/8/115923.jpg
+ 8, [score]: <0.8697686195373535>.
+/media/shinong/study/30_easy_test/8/2721125.jpg
+ 8, [score]: <0.3152792155742645>.
+/media/shinong/study/30_easy_test/8/1002643.jpg
+ 8, [score]: <0.9791369438171387>.
+/media/shinong/study/30_easy_test/8/1027064.jpg
+ 8, [score]: <0.9855419397354126>.
+/media/shinong/study/30_easy_test/8/1679265.jpg
+ 8, [score]: <0.9973751306533813>.
+/media/shinong/study/30_easy_test/8/547773.jpg
+ 11, [score]: <0.7184885144233704>.
+/media/shinong/study/30_easy_test/8/1790115.jpg
+ 20, [score]: <0.7739891409873962>.
+14
+class:8
+/media/shinong/study/30_easy_test/26/1675459.jpg
+ 26, [score]: <0.9806890487670898>.
+/media/shinong/study/30_easy_test/26/139695.jpg
+ 7, [score]: <0.6292238831520081>.
+/media/shinong/study/30_easy_test/26/1721120.jpg
+ 26, [score]: <0.2923465371131897>.
+/media/shinong/study/30_easy_test/26/287701.jpg
+ 26, [score]: <0.9606598019599915>.
+/media/shinong/study/30_easy_test/26/2740239.jpg
+ 26, [score]: <0.9919637441635132>.
+/media/shinong/study/30_easy_test/26/1706744.jpg
+ 26, [score]: <0.9918200969696045>.
+/media/shinong/study/30_easy_test/26/1266336.jpg
+ 26, [score]: <0.573045015335083>.
+/media/shinong/study/30_easy_test/26/2131697.jpg
+ 3, [score]: <0.6643000841140747>.
+/media/shinong/study/30_easy_test/26/1640151.jpg
+ 26, [score]: <0.9302524328231812>.
+/media/shinong/study/30_easy_test/26/1687165.jpg
+ 26, [score]: <0.9502257108688354>.
+/media/shinong/study/30_easy_test/26/1693233.jpg
+ 29, [score]: <0.2855224013328552>.
+/media/shinong/study/30_easy_test/26/512872.jpg
+ 26, [score]: <0.7208302021026611>.
+/media/shinong/study/30_easy_test/26/2740238.jpg
+ 26, [score]: <0.9452328681945801>.
+/media/shinong/study/30_easy_test/26/1664979.jpg
+ 26, [score]: <0.999734103679657>.
+/media/shinong/study/30_easy_test/26/281923.jpg
+ 26, [score]: <0.5242105722427368>.
+/media/shinong/study/30_easy_test/26/1888841.jpg
+ 26, [score]: <0.9987295269966125>.
+/media/shinong/study/30_easy_test/26/987384.jpg
+ 26, [score]: <0.7253877520561218>.
+/media/shinong/study/30_easy_test/26/177197.jpg
+ 14, [score]: <0.42582017183303833>.
+/media/shinong/study/30_easy_test/26/1777854.jpg
+ 11, [score]: <0.38826337456703186>.
+/media/shinong/study/30_easy_test/26/349770.jpg
+ 28, [score]: <0.7140272855758667>.
+14
+class:26
+/media/shinong/study/30_easy_test/24/465321.jpg
+ 24, [score]: <0.6904123425483704>.
+/media/shinong/study/30_easy_test/24/807487.jpg
+ 13, [score]: <0.26800477504730225>.
+/media/shinong/study/30_easy_test/24/1456881.jpg
+ 24, [score]: <0.6212565898895264>.
+/media/shinong/study/30_easy_test/24/3980050.jpg
+ 24, [score]: <0.5683795213699341>.
+/media/shinong/study/30_easy_test/24/2744954.jpg
+ 13, [score]: <0.35721907019615173>.
+/media/shinong/study/30_easy_test/24/1759655.jpg
+ 3, [score]: <0.20964373648166656>.
+/media/shinong/study/30_easy_test/24/1056259.jpg
+ 24, [score]: <0.9912387728691101>.
+/media/shinong/study/30_easy_test/24/1885435.jpg
+ 12, [score]: <0.271054208278656>.
+/media/shinong/study/30_easy_test/24/2179661.jpg
+ 24, [score]: <0.9838418960571289>.
+/media/shinong/study/30_easy_test/24/2607262.jpg
+ 22, [score]: <0.7158650755882263>.
+/media/shinong/study/30_easy_test/24/4500382.jpg
+ 17, [score]: <0.997776448726654>.
+/media/shinong/study/30_easy_test/24/1551603.jpg
+ 24, [score]: <0.8579263091087341>.
+/media/shinong/study/30_easy_test/24/2414527.jpg
+ 24, [score]: <0.9777286648750305>.
+/media/shinong/study/30_easy_test/24/2899655.jpg
+ 24, [score]: <0.7075266242027283>.
+/media/shinong/study/30_easy_test/24/2024963.jpg
+ 24, [score]: <0.8933858275413513>.
+/media/shinong/study/30_easy_test/24/1396089.jpg
+ 17, [score]: <0.45011869072914124>.
+/media/shinong/study/30_easy_test/24/651214.jpg
+ 24, [score]: <0.7120478749275208>.
+/media/shinong/study/30_easy_test/24/2777808.jpg
+ 21, [score]: <0.411234974861145>.
+/media/shinong/study/30_easy_test/24/2252958.jpg
+ 24, [score]: <0.42038244009017944>.
+/media/shinong/study/30_easy_test/24/2360551.jpg
+ 17, [score]: <0.2639632821083069>.
+11
+class:24
+/media/shinong/study/30_easy_test/17/2625055.jpg
+ 6, [score]: <0.48569831252098083>.
+/media/shinong/study/30_easy_test/17/3948138.jpg
+ 17, [score]: <0.3208777904510498>.
+/media/shinong/study/30_easy_test/17/1314349.jpg
+ 17, [score]: <0.9458407759666443>.
+/media/shinong/study/30_easy_test/17/1401158.jpg
+ 17, [score]: <0.9311468601226807>.
+/media/shinong/study/30_easy_test/17/1420085.jpg
+ 17, [score]: <0.47341933846473694>.
+/media/shinong/study/30_easy_test/17/1401166.jpg
+ 27, [score]: <0.8215946555137634>.
+/media/shinong/study/30_easy_test/17/829921.jpg
+ 22, [score]: <0.8975030183792114>.
+/media/shinong/study/30_easy_test/17/2898357.jpg
+ 27, [score]: <0.6569246649742126>.
+/media/shinong/study/30_easy_test/17/487138.jpg
+ 22, [score]: <0.29940664768218994>.
+/media/shinong/study/30_easy_test/17/2678436.jpg
+ 17, [score]: <0.9849321246147156>.
+/media/shinong/study/30_easy_test/17/456719.jpg
+ 17, [score]: <0.5168709754943848>.
+/media/shinong/study/30_easy_test/17/2678442.jpg
+ 17, [score]: <0.9882531762123108>.
+/media/shinong/study/30_easy_test/17/1798514.jpg
+ 13, [score]: <0.2879575788974762>.
+/media/shinong/study/30_easy_test/17/410718.jpg
+ 17, [score]: <0.915812075138092>.
+/media/shinong/study/30_easy_test/17/4660974.jpg
+ 17, [score]: <0.799166202545166>.
+/media/shinong/study/30_easy_test/17/1565015.jpg
+ 17, [score]: <0.9973893761634827>.
+/media/shinong/study/30_easy_test/17/4660975.jpg
+ 17, [score]: <0.3105432391166687>.
+/media/shinong/study/30_easy_test/17/1546434.jpg
+ 17, [score]: <0.9964920878410339>.
+/media/shinong/study/30_easy_test/17/1363722.jpg
+ 8, [score]: <0.6703677177429199>.
+/media/shinong/study/30_easy_test/17/2609206.jpg
+ 7, [score]: <0.8557642698287964>.
+12
+class:17
+/media/shinong/study/30_easy_test/5/1646474.jpg
+ 24, [score]: <0.4082197844982147>.
+/media/shinong/study/30_easy_test/5/832212.jpg
+ 5, [score]: <0.3935145437717438>.
+/media/shinong/study/30_easy_test/5/1365790.jpg
+ 10, [score]: <0.7419368028640747>.
+/media/shinong/study/30_easy_test/5/2906310.jpg
+ 5, [score]: <0.8988418579101562>.
+/media/shinong/study/30_easy_test/5/1719289.jpg
+ 25, [score]: <0.7086971402168274>.
+/media/shinong/study/30_easy_test/5/539282.jpg
+ 14, [score]: <0.621629536151886>.
+/media/shinong/study/30_easy_test/5/2153657.jpg
+ 5, [score]: <0.654845654964447>.
+/media/shinong/study/30_easy_test/5/2662238.jpg
+ 5, [score]: <0.9891498684883118>.
+/media/shinong/study/30_easy_test/5/713373.jpg
+ 6, [score]: <0.2537273168563843>.
+/media/shinong/study/30_easy_test/5/119129.jpg
+ 5, [score]: <0.9188754558563232>.
+/media/shinong/study/30_easy_test/5/2309694.jpg
+ 5, [score]: <0.9457310438156128>.
+/media/shinong/study/30_easy_test/5/1646458.jpg
+ 5, [score]: <0.9424893856048584>.
+/media/shinong/study/30_easy_test/5/2936449.jpg
+ 5, [score]: <0.7801581025123596>.
+/media/shinong/study/30_easy_test/5/1477094.jpg
+ 5, [score]: <0.9958009123802185>.
+/media/shinong/study/30_easy_test/5/713318.jpg
+ 10, [score]: <0.5141932368278503>.
+/media/shinong/study/30_easy_test/5/2906327.jpg
+ 10, [score]: <0.350271999835968>.
+/media/shinong/study/30_easy_test/5/1794645.jpg
+ 5, [score]: <0.38449224829673767>.
+/media/shinong/study/30_easy_test/5/3766966.jpg
+ 5, [score]: <0.8102372288703918>.
+/media/shinong/study/30_easy_test/5/632532.jpg
+ 5, [score]: <0.9997584223747253>.
+/media/shinong/study/30_easy_test/5/1402993.jpg
+ 5, [score]: <0.8127094507217407>.
+13
+class:5
+/media/shinong/study/30_easy_test/22/2684383.jpg
+ 22, [score]: <0.9993909597396851>.
+/media/shinong/study/30_easy_test/22/516573.jpg
+ 22, [score]: <0.8958101272583008>.
+/media/shinong/study/30_easy_test/22/2820177.jpg
+ 17, [score]: <0.4411757290363312>.
+/media/shinong/study/30_easy_test/22/556927.jpg
+ 17, [score]: <0.7576662302017212>.
+/media/shinong/study/30_easy_test/22/1081149.jpg
+ 22, [score]: <0.8741072416305542>.
+/media/shinong/study/30_easy_test/22/297965.jpg
+ 22, [score]: <0.9984990358352661>.
+/media/shinong/study/30_easy_test/22/3948307.jpg
+ 8, [score]: <0.2206091731786728>.
+/media/shinong/study/30_easy_test/22/2684363.jpg
+ 22, [score]: <0.8051438927650452>.
+/media/shinong/study/30_easy_test/22/1880797.jpg
+ 22, [score]: <0.811190664768219>.
+/media/shinong/study/30_easy_test/22/1334912.jpg
+ 23, [score]: <0.4687950313091278>.
+/media/shinong/study/30_easy_test/22/2151492.jpg
+ 11, [score]: <0.7281633019447327>.
+/media/shinong/study/30_easy_test/22/2091109.jpg
+ 6, [score]: <0.5491703748703003>.
+/media/shinong/study/30_easy_test/22/519723.jpg
+ 3, [score]: <0.8664542436599731>.
+/media/shinong/study/30_easy_test/22/2105729.jpg
+ 26, [score]: <0.9782224893569946>.
+/media/shinong/study/30_easy_test/22/2684407.jpg
+ 22, [score]: <0.7238030433654785>.
+/media/shinong/study/30_easy_test/22/519719.jpg
+ 22, [score]: <0.8429170846939087>.
+/media/shinong/study/30_easy_test/22/1873068.jpg
+ 14, [score]: <0.4173591434955597>.
+/media/shinong/study/30_easy_test/22/4668260.jpg
+ 18, [score]: <0.6239297986030579>.
+/media/shinong/study/30_easy_test/22/455036.jpg
+ 24, [score]: <0.312604695558548>.
+/media/shinong/study/30_easy_test/22/1559801.jpg
+ 22, [score]: <0.8553852438926697>.
+9
+class:22
+/media/shinong/study/30_easy_test/25/4725975.jpg
+ 25, [score]: <0.6755432486534119>.
+/media/shinong/study/30_easy_test/25/284575.jpg
+ 25, [score]: <0.750723123550415>.
+/media/shinong/study/30_easy_test/25/2803190.jpg
+ 30, [score]: <0.14826083183288574>.
+/media/shinong/study/30_easy_test/25/2918686.jpg
+ 10, [score]: <0.9029452800750732>.
+/media/shinong/study/30_easy_test/25/4716093.jpg
+ 25, [score]: <0.9997010827064514>.
+/media/shinong/study/30_easy_test/25/2675787.jpg
+ 20, [score]: <0.6474829316139221>.
+/media/shinong/study/30_easy_test/25/4605013.jpg
+ 25, [score]: <0.9779167771339417>.
+/media/shinong/study/30_easy_test/25/2149753.jpg
+ 14, [score]: <0.32102739810943604>.
+/media/shinong/study/30_easy_test/25/1386700.jpg
+ 25, [score]: <0.79796302318573>.
+/media/shinong/study/30_easy_test/25/4770833.jpg
+ 24, [score]: <0.2213325947523117>.
+/media/shinong/study/30_easy_test/25/574629.jpg
+ 25, [score]: <0.9482718110084534>.
+/media/shinong/study/30_easy_test/25/1541342.jpg
+ 12, [score]: <0.48103898763656616>.
+/media/shinong/study/30_easy_test/25/981914.jpg
+ 2, [score]: <0.35658344626426697>.
+/media/shinong/study/30_easy_test/25/1083337.jpg
+ 25, [score]: <0.6073610186576843>.
+/media/shinong/study/30_easy_test/25/1047452.jpg
+ 25, [score]: <0.6160730123519897>.
+/media/shinong/study/30_easy_test/25/2805896.jpg
+ 25, [score]: <0.9997326731681824>.
+/media/shinong/study/30_easy_test/25/4605007.jpg
+ 25, [score]: <0.9147149920463562>.
+/media/shinong/study/30_easy_test/25/4716089.jpg
+ 25, [score]: <0.990563154220581>.
+/media/shinong/study/30_easy_test/25/3745514.jpg
+ 28, [score]: <0.6893324851989746>.
+/media/shinong/study/30_easy_test/25/2243165.jpg
+ 20, [score]: <0.6769125461578369>.
+11
+class:25
+/media/shinong/study/30_easy_test/20/2356286.jpg
+ 20, [score]: <0.947344958782196>.
+/media/shinong/study/30_easy_test/20/3934245.jpg
+ 20, [score]: <0.30220040678977966>.
+/media/shinong/study/30_easy_test/20/1463849.jpg
+ 15, [score]: <0.32396307587623596>.
+/media/shinong/study/30_easy_test/20/3826274.jpg
+ 20, [score]: <0.9746788740158081>.
+/media/shinong/study/30_easy_test/20/1350831.jpg
+ 2, [score]: <0.5740639567375183>.
+/media/shinong/study/30_easy_test/20/2073235.jpg
+ 21, [score]: <0.4651373028755188>.
+/media/shinong/study/30_easy_test/20/1855206.jpg
+ 20, [score]: <0.8543462753295898>.
+/media/shinong/study/30_easy_test/20/1421849.jpg
+ 20, [score]: <0.7593024969100952>.
+/media/shinong/study/30_easy_test/20/2959200.jpg
+ 20, [score]: <0.9960163235664368>.
+/media/shinong/study/30_easy_test/20/1652020.jpg
+ 25, [score]: <0.8257426619529724>.
+/media/shinong/study/30_easy_test/20/4558303.jpg
+ 11, [score]: <0.7866218090057373>.
+/media/shinong/study/30_easy_test/20/1849249.jpg
+ 21, [score]: <0.582481324672699>.
+/media/shinong/study/30_easy_test/20/516949.jpg
+ 20, [score]: <0.985675036907196>.
+/media/shinong/study/30_easy_test/20/3934242.jpg
+ 20, [score]: <0.9894980192184448>.
+/media/shinong/study/30_easy_test/20/3556200.jpg
+ 10, [score]: <0.5712940692901611>.
+/media/shinong/study/30_easy_test/20/554975.jpg
+ 20, [score]: <0.2736184000968933>.
+/media/shinong/study/30_easy_test/20/2982399.jpg
+ 25, [score]: <0.8451627492904663>.
+/media/shinong/study/30_easy_test/20/627843.jpg
+ 20, [score]: <0.9917783141136169>.
+/media/shinong/study/30_easy_test/20/3934247.jpg
+ 20, [score]: <0.3669370114803314>.
+/media/shinong/study/30_easy_test/20/676480.jpg
+ 11, [score]: <0.3258748948574066>.
+11
+class:20
+/media/shinong/study/30_easy_test/15/4670119.jpg
+ 7, [score]: <0.2893427610397339>.
+/media/shinong/study/30_easy_test/15/1482413.jpg
+ 25, [score]: <0.8190564513206482>.
+/media/shinong/study/30_easy_test/15/435727.jpg
+ 15, [score]: <0.4990154802799225>.
+/media/shinong/study/30_easy_test/15/1692296.jpg
+ 25, [score]: <0.5246390104293823>.
+/media/shinong/study/30_easy_test/15/2428686.jpg
+ 25, [score]: <0.7628149390220642>.
+/media/shinong/study/30_easy_test/15/2883346.jpg
+ 15, [score]: <0.9637967944145203>.
+/media/shinong/study/30_easy_test/15/1680248.jpg
+ 15, [score]: <0.9947401881217957>.
+/media/shinong/study/30_easy_test/15/2903095.jpg
+ 15, [score]: <0.9230023622512817>.
+/media/shinong/study/30_easy_test/15/3873046.jpg
+ 10, [score]: <0.8781787157058716>.
+/media/shinong/study/30_easy_test/15/2227117.jpg
+ 15, [score]: <0.5349883437156677>.
+/media/shinong/study/30_easy_test/15/2180381.jpg
+ 15, [score]: <0.6077747344970703>.
+/media/shinong/study/30_easy_test/15/2393294.jpg
+ 13, [score]: <0.24491076171398163>.
+/media/shinong/study/30_easy_test/15/260148.jpg
+ 10, [score]: <0.8112949728965759>.
+/media/shinong/study/30_easy_test/15/3961556.jpg
+ 15, [score]: <0.9991205334663391>.
+/media/shinong/study/30_easy_test/15/1234878.jpg
+ 12, [score]: <0.26705777645111084>.
+/media/shinong/study/30_easy_test/15/1869761.jpg
+ 15, [score]: <0.9324542284011841>.
+/media/shinong/study/30_easy_test/15/1886740.jpg
+ 12, [score]: <0.4168335199356079>.
+/media/shinong/study/30_easy_test/15/3962240.jpg
+ 15, [score]: <0.4216843545436859>.
+/media/shinong/study/30_easy_test/15/676362.jpg
+ 20, [score]: <0.5962380766868591>.
+/media/shinong/study/30_easy_test/15/2815937.jpg
+ 15, [score]: <0.3097456395626068>.
+10
+class:15
+/media/shinong/study/30_easy_test/21/4601610.jpg
+ 10, [score]: <0.3800581693649292>.
+/media/shinong/study/30_easy_test/21/1833695.jpg
+ 24, [score]: <0.6768176555633545>.
+/media/shinong/study/30_easy_test/21/2360566.jpg
+ 2, [score]: <0.9439004063606262>.
+/media/shinong/study/30_easy_test/21/3769324.jpg
+ 15, [score]: <0.4533963203430176>.
+/media/shinong/study/30_easy_test/21/1839197.jpg
+ 3, [score]: <0.7658576369285583>.
+/media/shinong/study/30_easy_test/21/1426170.jpg
+ 21, [score]: <0.9599177837371826>.
+/media/shinong/study/30_easy_test/21/2204405.jpg
+ 16, [score]: <0.3301164209842682>.
+/media/shinong/study/30_easy_test/21/2204404.jpg
+ 5, [score]: <0.5121006369590759>.
+/media/shinong/study/30_easy_test/21/4644186.jpg
+ 11, [score]: <0.5494553446769714>.
+/media/shinong/study/30_easy_test/21/1534103.jpg
+ 21, [score]: <0.997348427772522>.
+/media/shinong/study/30_easy_test/21/1612951.jpg
+ 21, [score]: <0.9782698154449463>.
+/media/shinong/study/30_easy_test/21/4577622.jpg
+ 21, [score]: <0.9502394199371338>.
+/media/shinong/study/30_easy_test/21/1872556.jpg
+ 21, [score]: <0.9948256015777588>.
+/media/shinong/study/30_easy_test/21/1612938.jpg
+ 21, [score]: <0.9529125094413757>.
+/media/shinong/study/30_easy_test/21/2384240.jpg
+ 21, [score]: <0.9514418840408325>.
+/media/shinong/study/30_easy_test/21/2748383.jpg
+ 21, [score]: <0.9187306761741638>.
+/media/shinong/study/30_easy_test/21/1612937.jpg
+ 21, [score]: <0.9959853291511536>.
+/media/shinong/study/30_easy_test/21/3943407.jpg
+ 21, [score]: <0.992998480796814>.
+/media/shinong/study/30_easy_test/21/1613035.jpg
+ 21, [score]: <0.9782698154449463>.
+/media/shinong/study/30_easy_test/21/1042884.jpg
+ 21, [score]: <0.9971123933792114>.
+12
+class:21

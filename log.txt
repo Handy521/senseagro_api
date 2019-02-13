@@ -1,0 +1,17 @@
+/media/shinong/study/try/Jun21_20class/婆婆纳/116078.jpg
+[name]: <婆婆纳>, [score]: <0.92284047603607>.
+[name]: <阿拉伯婆婆纳>, [score]: <0.22114197909832>.
+[name]: <直立婆婆纳>, [score]: <0.0040591792203486>.
+==================
+/media/shinong/study/try/Jun21_20class/婆婆纳/1686959.jpg
+[name]: <阿拉伯婆婆纳>, [score]: <0.61204636096954>.
+[name]: <婆婆纳>, [score]: <0.41188779473305>.
+[name]: <直立婆婆纳>, [score]: <0.030112963169813>.
+==================
+/media/shinong/study/try/Jun21_20class/婆婆纳/1667641.jpg
+[name]: <婆婆纳>, [score]: <0.88287055492401>.
+[name]: <活血丹>, [score]: <0.094250485301018>.
+[name]: <阿拉伯婆婆纳>, [score]: <0.090610414743423>.
+==================
+/media/shinong/study/try/Jun21_20class/婆婆纳/116078.jpg
+/media/shinong/study/try/Jun21_20class/婆婆纳/2420860.jpg
